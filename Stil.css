@@ -1,0 +1,62 @@
+body { 
+  font-family: Arial, Helvetica, sans-serif;
+  background-color:white;
+  color: #170501;
+ } 
+ div{
+      margin-top:25px;
+  }
+#container{
+  background-color:white;
+    width:1000px;
+    margin:10px auto;
+  }
+
+  table {
+   /*border: 2px solid black;*/
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: center;    
+  }
+
+#limbi{
+      border:1px solid black;
+      border-collapse: collapse;
+
+} 
+
+#limbi td {
+      border:1px solid black;
+
+} 
+
+#limbistr{
+      border:1px solid black;
+      border-collapse: collapse;
+
+} 
+#limbistr td {
+      border:1px solid black;
+
+} 
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration-line: underline;
+  background-color: lightblue;
+}
+
+a:active {
+  text-decoration: none;
+} 
+
+
